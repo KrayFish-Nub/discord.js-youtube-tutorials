@@ -18,11 +18,11 @@ next once you done then save the file open terminal and run below command,
 ```bash
 node .
 ```
-
 once you are done you'll see something like this,
+<br>
 ![Command Loaded!](https://i.imgur.com/Oh5lIQK.png)
-
-And yah you are don!
+<br>
+And yah you are done!
   
 ## Support
 
