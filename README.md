@@ -34,4 +34,7 @@ Feel free to join our discord server if you get any error and else. -> *https://
 
 - [@pritulx](https://www.github.com/pritulx)
 
+## Show your support
+
+Give a ⭐️ if this project helped you!
   
