@@ -5,8 +5,9 @@ Simple command handler for discord.js which is really easy to setup!
 ### Support Us Please
 ![Star](https://i.imgur.com/41nhvJ1.png)
 ![Fork](https://i.imgur.com/MOtHDPV.png)
-**NOTE:** Please don't just copy files just fork the repo i'll appreciate it please 
 <br>
+**NOTE:** Please don't just copy files just fork the repo i'll appreciate it please 
+
 
 ## Setup 
 
