@@ -35,6 +35,9 @@ And yah you are done!
 ## Support
 
 Feel free to join our discord server if you get any error and else. -> *https://discord.gg/DXyczwxQYf*
+<a href="https://www.discord.io/prituhq">
+<img src="https://i.imgur.com/x4jN0XM.png">
+</a>
 
   
 ## Authors
