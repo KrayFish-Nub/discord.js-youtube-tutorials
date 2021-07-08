@@ -14,14 +14,19 @@ Simple command handler for discord.js which is really easy to setup!
 
 Once you open this hjandler in your code editor then open terminal and run below command.
 
-![npm install](https://i.imgur.com/Y5zfceA.png)
+```bash
+npm install
+````
 
 Once you run this command then all packages will be installed in your project after go to `config.json` file
 and fill the information like Owner ID, Your discord bot token, Your discord bot prefix!
 
 next once you done then save the file open terminal and run below command,
 
-![node .](https://i.imgur.com/6grg2j1.png)
+```bash
+node .
+```
+
 once you are done you'll see something like this,
 <br>
 ![Command Loaded!](https://i.imgur.com/clohfrx.png)
