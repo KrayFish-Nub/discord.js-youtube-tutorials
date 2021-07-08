@@ -7,4 +7,8 @@
 <img src="https://i.imgur.com/bXIf0Ju.png">
 </a>
 
+<a href="https://www.discord.io/prituhq">
+<img src="https://i.imgur.com/x4jN0XM.png">
+</a>
+
 ## Please Consider subscribing and staring this repo. ⭐
