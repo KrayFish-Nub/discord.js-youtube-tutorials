@@ -4,11 +4,11 @@
 ## How to get source code?
 #### If you want source code then you can follow below tutorial!
 
-Just go to repo and click on ![Branches](https://pritu.joema.ma/hahahafunny/🚀🦖🥈🚥)
+Just go to repo and click on ![Branches](https://i.imgur.com/yVoO9nw.png)
 
 And then you can see the list of all episodes just click on them to view code.
 
-![Branch list](https://pritu.xdcraft.fun/hahahafunny/🦸📚🗻🍾)
+![Branch list](https://i.imgur.com/I3VdJ4u.png)
 
 
 [©️pritulx 2021](https://github.com/pritulx)
