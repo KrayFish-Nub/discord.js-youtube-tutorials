@@ -3,6 +3,6 @@
 
 ## Here is the tutorial video click on below image.
 
-![Watch video](https://i.imgur.com/bXIf0Ju.png)
+<img src="https://i.imgur.com/bXIf0Ju.png">
 
 ## Please Consider subscribing and staring this repo. ⭐
