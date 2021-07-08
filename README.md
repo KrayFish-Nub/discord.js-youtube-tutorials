@@ -15,5 +15,8 @@ And then you can see the list of all episodes just click on them to view code.
 
 ![Branches list](https://i.imgur.com/yVoO9nw.png)
 
+<a href="https://www.discord.io/prituhq">
+<img src="https://i.imgur.com/x4jN0XM.png">
+</a>
 
 [©️pritulx 2021](https://github.com/pritulx)
