@@ -5,7 +5,7 @@
 #### If you want source code then you can follow below tutorial!
 
 Just go to repo and click on,
-[Branch](https://i.imgur.com/I3VdJ4u.png)
+![Branch](https://i.imgur.com/I3VdJ4u.png)
 
 And then you can see the list of all episodes just click on them to view code.
 
