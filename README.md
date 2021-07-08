@@ -3,8 +3,8 @@
 Simple command handler for discord.js which is really easy to setup!
 <br>
 ### Support Us Please
-![Star](https://i.imgur.com/41nhvJ1.png)
-![Fork](https://i.imgur.com/MOtHDPV.png)
+![Star](https://i.imgur.com/nA9EKUl.png)
+![Fork](https://i.imgur.com/ikYWNWV.png)
 <br>
 **NOTE:** Please don't just copy files just fork the repo i'll appreciate it please 
 
