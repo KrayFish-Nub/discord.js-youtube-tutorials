@@ -28,7 +28,7 @@ node .
 ```
 once you are done you'll see something like this,
 <br>
-![Command Loaded!](https://i.imgur.com/Oh5lIQK.png)
+![Command Loaded!](https://i.imgur.com/clohfrx.png)
 <br>
 And yah you are done!
   
