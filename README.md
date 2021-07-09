@@ -3,7 +3,7 @@
 
 ## Here is the tutorial video click on below image.
 
-<a href="https://www.youtube.com/watch?v=YquF45xY4Yc&t">
+<a href="https://www.youtube.com/watch?v=fE91hZ-7Ghk">
 <img src="https://i.imgur.com/rxZbRKd.png">
 </a>
 
