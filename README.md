@@ -1,10 +1,10 @@
 # Welcome 👋
-### This is Episode 3 in discord.js which explains about discord automatic changing status for your bot!
+### This is Episode 4 in discord.js which explains about discord inline Replies for your bot!
 
 ## Here is the tutorial video click on below image.
 
-<a href="https://www.youtube.com/watch?v=fE91hZ-7Ghk">
-<img src="https://i.imgur.com/rxZbRKd.png">
+<a href="https://www.youtube.com/watch?v=9TmQ5mUzAWg&t">
+<img src="https://i.imgur.com/QmkMolz.png">
 </a>
 
 <a href="https://www.discord.io/prituhq">
