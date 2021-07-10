@@ -19,4 +19,20 @@ And then you can see the list of all episodes just click on them to view code.
 <img src="https://i.imgur.com/x4jN0XM.png">
 </a>
 
+## Handler style
+
+```bash
+
+module.exports = {
+name: "ping",
+usage: "Nothing rlly",
+ownerOnly: false, 
+cooldown: 5000,
+botPermission: [],
+authorPermission: [],
+aliases: [],
+description: "Nothing",
+}
+```
+
 [©️pritulx 2021](https://github.com/pritulx)
