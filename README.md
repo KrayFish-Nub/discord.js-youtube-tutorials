@@ -11,7 +11,7 @@ Simple command handler for discord.js v13 which is really easy to setup & Higly 
 
 ## Setup 
 
-Once you open this hjandler in your code editor then open terminal and run below command.
+Once you open this handler in your code editor then open terminal and run below command.
 
 ```bash
 npm install
