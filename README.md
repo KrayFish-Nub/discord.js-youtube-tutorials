@@ -26,8 +26,10 @@ next once you done then save the file open terminal and run below command,
 node .
 ```
 
-and then next you'll see something like this soo,,
+and then next you'll see something like this,
+<br>
 ![bot started](https://i.imgur.com/2L30wUi.png)
+<br>
 And yah you are done!
   
 ## Support
