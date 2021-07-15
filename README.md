@@ -25,6 +25,9 @@ next once you done then save the file open terminal and run below command,
 ```bash
 node .
 ```
+
+and then next you'll see something like this soo,,
+![bot started](https://i.imgur.com/2L30wUi.png)
 And yah you are done!
   
 ## Support
