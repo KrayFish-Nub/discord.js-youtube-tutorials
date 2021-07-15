@@ -1,6 +1,7 @@
 ## welcome 👋
 #### Make sure to watch [this](https://www.youtube.com/watch?v=jYYM30eNkf0&t) video before using this repository, for an easy guide for using this!
 ## Show your support please
+
 ![Star](https://i.imgur.com/FR2CpVQ.png)
 ![Fork](https://i.imgur.com/tVOUWa9.png)
 <br>
